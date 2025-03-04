@@ -3,6 +3,10 @@ Title: "Der erste Testeintrag"
 date: 2025-03-04
 categories: [Test]
 tags: [Test]
+image:
+ path: /img/Steps.jpg
+ alt: steps in sand
+
 ---
 
 # Der erste Testeintrag
