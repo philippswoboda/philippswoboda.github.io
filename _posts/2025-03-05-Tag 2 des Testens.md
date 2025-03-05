@@ -1,12 +1,12 @@
 ---
-Title: "Der zweite Tag zum Testen"
+Title: "Tag 2 mit einer Blogpage auf Github"
 date: "2025-03-05"
 categories: [Test]
 tags: [Test]
 
 ---
 
-# Der zweite Tag des Testens
+# Der zweite Tag des Testens - Blog-Github-Homepage mit dem iPad
 
 Heute ist der zweite Tag an dem ich meinen Blog teste. Diesmal schreibe ich auch schon von meinem iPad aus, aber mit der Github-App und nicht mit Working Copy (welche ich mir aber unbedingt auch noch für mein iPad besorgen möchte, denn das scheint eine sehr interessante App zu sein - auch wenn der Preis doch auch ein bisschen Abschreckend ist)
 
