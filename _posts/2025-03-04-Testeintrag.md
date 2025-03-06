@@ -4,7 +4,7 @@ date: 2025-03-04
 categories: [Test]
 tags: [Test]
 image:
- path: /img/Steps.jpg
+ path: /assets/img/Steps.jpg
  alt: steps in sand
 
 ---
