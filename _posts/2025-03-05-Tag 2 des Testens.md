@@ -3,6 +3,9 @@ Title: "Tag 2 mit einer Blogpage auf Github"
 date: "2025-03-05"
 categories: [Test]
 tags: [Test]
+image:
+	path: /assets/img/posts/busy-lustig.jpg
+	alt: Busy
 
 ---
 
