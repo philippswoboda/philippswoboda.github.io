@@ -19,3 +19,7 @@ Und nachdem ich auch schauen möchte wie das auf dem PC läuft - heir auch noch 
 
 ### iPhone Test
 Und das ist auch nochmal ein Test mit dem iPhone, aber ich glaube auch, dass das ohne Probleme funktionieren sollte!? 😅
+
+### iPad Test mit Working Copy
+Und nun ist es auch hier soweit, dass ich nun mit der App Working Copy meinen ersten Eintrag schreibe und den dann auch hoch pushen kann, weil ich mir endlich die App geleistet habe - aber ich denke auch, dass das ein sehr gutes Investment war…! 😇 
+Und noch ein Test in der Hoffnung, dass es nun funktioniert!?
