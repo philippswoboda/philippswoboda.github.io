@@ -19,3 +19,4 @@ Und das ist auch nochmal ein Test mit dem iPhone, aber ich glaube auch, dass das
 
 ### iPad Test mit Working Copy
 Und nun ist es auch hier soweit, dass ich nun mit der App Working Copy meinen ersten Eintrag schreibe und den dann auch hoch pushen kann, weil ich mir endlich die App geleistet habe - aber ich denke auch, dass das ein sehr gutes Investment war…! 😇
+Und nachdem das erste Deployment leider nicht funktioniert hat versuche ich es jetzt einfach nochmal
