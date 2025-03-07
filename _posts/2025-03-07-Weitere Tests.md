@@ -4,8 +4,8 @@ date: „2025-03-07“
 categories: [Test]
 tags: [Test]
 image:
-	path: /assets/img/posts/busy-lustig.jpg
-	alt: Busy
+ path: /assets/img/posts/busy-lustig.jpg
+ alt: Busy
 
 ---
 
