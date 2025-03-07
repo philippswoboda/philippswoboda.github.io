@@ -1,4 +1,4 @@
-—--
+---
 Title: „Tag 2 mit einer Blogpage auf Github“
 date: „2025-03-07“
 categories: [Test]
@@ -7,7 +7,7 @@ image:
 	path: /assets/img/posts/busy-lustig.jpg
 	alt: Busy
 
-—--
+---
 
 # Der zweite Tag des Testens - Blog-Github-Homepage mit dem iPad
 
