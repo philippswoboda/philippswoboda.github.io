@@ -1,5 +1,5 @@
 ---
-Title: „Tag 2 mit einer Blogpage auf Github“
+Title: „Die weiteren Tage des Testens mit einer Blogpage auf Github“
 date: „2025-03-07“
 categories: [Test]
 tags: [Test]
