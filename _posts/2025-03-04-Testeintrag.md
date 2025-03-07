@@ -5,7 +5,7 @@ categories: [Test]
 tags: [Test]
 image:
  path: /assets/img/posts/Steps.jpg
- alt: steps in sand
+ alt: Steps in sand
 
 ---
 
