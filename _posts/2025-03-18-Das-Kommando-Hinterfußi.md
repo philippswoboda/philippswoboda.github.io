@@ -1,8 +1,8 @@
 ---
 Title: „Molly und das "Hinterfußi" - Kommando“
 date: „2025-03-18“
-categories: [Hunde] 
-tags: [Molly] [Tricks]
+categories: [Hunde, Tricks] 
+tags: [Molly, Tricks, Hundeturnen]
 image:
  path: /assets/img/posts/2025-03-18/Molly1.jpg
  alt: Molly - &copy; by Philipp Swoboda
@@ -33,6 +33,6 @@ _Molly beim Kommando "Hinterfußi" &copy; Philipp Swoboda_
 ### Und was lernen wir nun daraus...?
 
 
-```ad-tip
+:::tip
 **Man lernt nie aus!**
-```
+:::
