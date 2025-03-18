@@ -34,7 +34,7 @@ _Molly beim Kommando "Hinterfußi" &copy; Philipp Swoboda_
 
 
 
-> Man lernt nie aus!
+> **Man lernt nie aus!**
 {: .prompt-tip}
 
 
