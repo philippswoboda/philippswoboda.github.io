@@ -35,5 +35,5 @@ _Molly beim Kommando "Hinterfußi" &copy; Philipp Swoboda_
 
 ```tip
 Man lernt nie aus!
-``
+```
 
