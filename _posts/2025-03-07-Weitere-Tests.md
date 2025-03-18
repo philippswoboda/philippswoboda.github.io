@@ -1,11 +1,11 @@
 ---
-Title: "Tag 2 mit einer Blogpage auf Github"
-date: "2025-03-05"
+Title: „Die weiteren Tage des Testens mit einer Blogpage auf Github“
+date: „2025-03-07“
 categories: [Test]
 tags: [Test]
 image:
-	path: /assets/img/posts/busy-lustig.jpg
-	alt: Busy
+ path: /assets/img/posts/busy-lustig.jpg
+ alt: Busy
 
 ---
 
@@ -23,3 +23,9 @@ Und das ist auch nochmal ein Test mit dem iPhone, aber ich glaube auch, dass das
 ### iPad Test mit Working Copy
 Und nun ist es auch hier soweit, dass ich nun mit der App Working Copy meinen ersten Eintrag schreibe und den dann auch hoch pushen kann, weil ich mir endlich die App geleistet habe - aber ich denke auch, dass das ein sehr gutes Investment war…! 😇 
 Und noch ein Test in der Hoffnung, dass es nun funktioniert!?
+
+### Ein weiterer Test - diesmal mit Textastic als Schreibprogramm für .md und andere Files
+Und jetzt kommt noch ein weiterer Test (Weil man muss ja auch ordentlich testen...😂)
+Und zwar habe ich jetzt einmal am iPad das Respository in Textastik integriert, was sich ja super integrieren lässt. Vielleicht ist es dann auch ein bisschen leichter, dass ich die Einträge erstelle ohne, dass ich dann noch zu viele Tippfehler in den Markdown Files drinnen habe. 
+
+Aber wie überall muss ich das immer vorher ausprobieren und wenn ich dann einen Workflows zusammen habe, der dann auch passt, dann wird es sicherlich leichter werden, dass ich Reibungslos Einträge erstelle. Gut Ding braucht eben Weile...und wir sind wieder beim Punkt... `step by step`
