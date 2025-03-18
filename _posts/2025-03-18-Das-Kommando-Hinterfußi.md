@@ -16,7 +16,7 @@ image:
 Ich gehe mit der alten Dame - Molly wird im Sommer doch schon 10 Jahre alt 🙈 - nun regelmäßig Hundeturnen was gut für Ihre alten Knochen ist. Erst letztens haben nicht nur die Molly sondern auch ich wieder eine neue Lektion gelernt, nämlich, dass man nie zu alt ist um etwas neues zu lernen. 
 
 
-Und so hat die alte Dame nach einigen Kommandos auch wieder ein neues Kommando gelernt. Dabei ging es darum, dass sie mit ihren beiden Vorderpfoten auf einem Podest steht, die Hinterfüße auch erhöht stehen, und sie mit einem Hinterfuß auch auf das Podest steigt, der zweite Hinterfuß aber unten stehen bleibt. 
+Und so hat die alte Dame nach einigen Kommandos auch wieder ein neues Kommando gelernt. Dabei ging es darum, dass sie mit ihren beiden Vorderpfoten auf einem Podest steht, die Hinterfüße auch erhöht stehen, und sie mit einem Hinterfuß auf das Podest steigt, der zweite Hinterfuß aber unten stehen bleibt. 
 
 
 Einige Fehltritte und einigen (oder besser gesagt ehrer vielen 😂) Keksis später konnte Molly dann den einzelnen Hinterfuß auf das Podest stellen. 
