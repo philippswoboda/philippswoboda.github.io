@@ -33,6 +33,7 @@ _Molly beim Kommando "Hinterfußi" &copy; Philipp Swoboda_
 ### Und was lernen wir nun daraus...?
 
 
-:::tip
+```tip
 Man lernt nie aus!
-:::
+``
+
