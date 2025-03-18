@@ -33,7 +33,8 @@ _Molly beim Kommando "Hinterfußi" &copy; Philipp Swoboda_
 ### Und was lernen wir nun daraus...?
 
 
-```tip
-Man lernt nie aus!
-```
+
+> Man lernt nie aus!
+{: .prompt-tip}
+
 
