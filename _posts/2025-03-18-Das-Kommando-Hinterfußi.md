@@ -31,9 +31,9 @@ Damit ihr euch das auch ein bisschen besser vorstellen könnt habe ich das ganze
 	src='/assets/img/posts/2025-03-18/hinterfußi.mp4'
 	types='mp4'
 	poster='/assets/img/posts/2025-03-18/Molly1.jpg'
-	title='_Molly beim Kommando "Hinterfußi" &copy; Philipp Swoboda_'
+	title='Molly beim Kommando "Hinterfußi" &copy; Philipp Swoboda'
 	autoplay=false
-	loop=true
+	loop=false
 	muted=false
 %}
 
