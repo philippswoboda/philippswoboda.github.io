@@ -3,6 +3,7 @@ Title: „Molly und das "Hinterfußi" - Kommando“
 date: „2025-03-18“
 categories: [Hunde, Tricks] 
 tags: [Molly, Tricks, Hundeturnen]
+description: Heute hat die Molly auf ihren alten Tagen das Kommando "Hinterfußi" gelernt - frei nach dem Motto "Man ist nie zu alt etwas neues zu lernen"
 image:
  path: /assets/img/posts/2025-03-18/Molly1.jpg
  alt: Molly - &copy; by Philipp Swoboda
