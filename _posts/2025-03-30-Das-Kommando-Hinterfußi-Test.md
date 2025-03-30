@@ -29,7 +29,7 @@ Damit ihr euch das auch ein bisschen besser vorstellen könnt habe ich das ganze
 
 
 <figure class="video_container">
-	<video controls="true" controlsList="nodownload" oncontextmenu="return false;" allowfullscreen="frue" title="Molly beim Kommando Hinterfußi" poster="/assets/img/posts/2025-03-18/Molly1.jpg">
+	<video controls="true" controlsList="nodownload" oncontextmenu="return false;" allowfullscreen="frue" width="600px" title="Molly beim Kommando Hinterfußi" poster="/assets/img/posts/2025-03-18/Molly1.jpg">
 		<source src="/assets/img/posts/2025-03-18/hinterfußi.mp4" type="video/mp4" />
 	</video>	
 </figure>
